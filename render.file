@@ -1,0 +1,14 @@
+build:
+  command: |
+    pip install -r requirements.txt
+    python app.py
+  command: |
+    npm install
+    npm run build
+  artifact: public
+
+deploy:
+  script: |
+    python app.py
+  environment: python3.10.4
+  port: 5000

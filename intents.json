@@ -1,0 +1,3233 @@
+{
+    "intents": [
+      {
+        "tag": "greeting 1",
+        "patterns": [
+          "ndeipi"
+        ],
+        "responses": [
+          "ndiribo zvirisei ,ndingakubatsirai nei? :-)"
+         
+        ]
+      },
+      {
+        "tag": "greeting 2",
+        "patterns": [
+          "maswerasei?"
+        ],
+        "responses": [
+          "taswera kana maswerawo! :-)"
+       
+        ]
+      },
+     
+      {
+        "tag": "greeting 3",
+        "patterns": [
+          "mamukasei"
+          
+        ],
+        "responses": [
+          "ndamuka kana mamukawo!"
+          
+        ]
+      },
+      {
+        "tag": "idiom 1",
+        "patterns": [
+          "Mwana asingachemi anofira mumbereko"
+         
+        ],
+        "responses": [
+          "Munhu akasataura zvinomunetsa hapana anofembera kuti amubatsire"
+          
+        ]
+      },
+      {
+        "tag": "idiom 2",
+        "patterns": [
+          "Totenda maruva tadya chakata"
+         
+        ],
+        "responses": [
+          "Unofanira kuzogutsikana chinhu chapera kwete chichiri munzira nekuti pamwe zvinhu zvinhu hazvizobude semafungiro ako"
+          
+        ]
+      },
+      {
+        "tag": "idiom 3",
+        "patterns": [
+          "Kurera imbwa nomukaka mangwana inofuma yokuruma"
+         
+        ],
+        "responses": [
+          "Nyangwe ukaitira munhu asingatende zvakanaka anongokupandukira chete pamberi"
+          
+        ]
+      },
+      {
+        "tag": "idiom 4",
+        "patterns": [
+          "Kwadzinorohwa matumburira ndiko kwadzinomhanyira"
+         
+        ],
+        "responses": [
+          "Vamwe vanhu vanoramba vachiwirirana nevanhu vanovashungurudza"
+          
+        ]
+      },
+      {
+        "tag": "idiom 5",
+        "patterns": [
+          "Vataitururira matohwe nhasi ndivo votiseka maparapadzwa"
+         
+        ],
+        "responses": [
+          "Munhu waunoitira chakanaka anogona kuzoramba kukubatsira mangwana"
+          
+        ]
+      },
+      {
+        "tag": "idiom 6",
+        "patterns": [
+          "Chigarisano ndicho chine mhosva"
+         
+        ],
+        "responses": [
+          "Vanhu vanokanganisirana nehama, shamwari, vavakidzani nevavanobata navo nekuti mukugarisana ndimo munobva kukanganisirana"
+          
+        ]
+      },
+      {
+        "tag": "idiom 7",
+        "patterns": [
+           "Mugoni wepwere ndiye asinayo"
+         
+        ],
+        "responses": [
+          "Vanhu vanogona kushora zvinoitwa nevamwe asi vanoshora vacho vasina kumboita chinhu ichocho"
+          
+        ]
+      },
+      {
+        "tag": "idiom 8",
+        "patterns": [
+          "Mhembwe rudzi kuzvara mwana ane kazhumu"
+         
+        ],
+        "responses": [
+          "Chinhu hachisiyane nekwachakabva"
+          
+        ]
+      },
+      {
+        "tag": "idiom 9",
+        "patterns": [
+          "Rukova rwizi kuyambuka unokwinya nguo"
+         
+        ],
+        "responses": [
+          "Chero basa rikava diki rinongoda kuitwa nemazvo"
+          
+        ]
+      },
+  
+      {
+        "tag": "idiom 10",
+        "patterns": [
+          "Wegudza ndowegudza kufuga gumbeze rinotsva"
+         
+        ],
+        "responses": [
+          "Mumwe munhu anongoteerwa nemunyama pahupenyu hwake"
+          
+        ]
+      },
+      {
+        "tag": "idiom 11",
+        "patterns": [
+          "Chako ndechako kuseva unosiya muto"
+         
+        ],
+        "responses": [
+          "Munhu ane simba rekuita zvaanoda nechinhu chake kwete chemumwe"
+          
+        ]
+      },
+      {
+        "tag": "idiom 12",
+        "patterns": [
+          "Tsapata rukukwe hazvienzani nokuvata pasi"
+         
+        ],
+        "responses": [
+          "Kuwana zvidiki kana zvishoma zviri nani pane kushaya zvachose"
+          
+        ]
+      },
+      {
+        "tag": "idiom 13",
+        "patterns": [
+          "Chidokodoko chirere-muviri chikuru chinozouya wakora"
+         
+        ],
+        "responses": [
+          "Unotanga nechinhu chidiki wozoita chikura, pangave pakutsvaga mari, fundo kana zvimwe zvinhu"
+          
+        ]
+      },
+      {
+        "tag": "idiom 14",
+        "patterns": [
+          "Chibwe chiremera chavari kure vari pedyo vanotamba nacho"
+         
+        ],
+        "responses": [
+          "Munhu anoshayisa basa zvinhu zviri nyore kuwana asi mumwe anenge achitokoshesa chinhu chimwe chete ichocho"
+          
+        ]
+      },
+      {
+        "tag": "idiom 15",
+        "patterns": [
+          "N’ai kwadzo ndedzomucheche dzomukuru dzinoreva kudya"
+         
+        ],
+        "responses": [
+          "Dzimwe nguva vamwe vanhu vanoita chibhende vasingabudi pachena nezvavakananga"
+          
+        ]
+      },
+      {
+        "tag": "idiom 16",
+        "patterns": [
+          "Kure ndokuna amai kune mukadzi unofa wasvika"
+         
+        ],
+        "responses": [
+          "Chinhu chaunonyatsoda unochishingirira kusvika wachiwana"
+          
+        ]
+      },
+      {
+        "tag": "idiom 17",
+        "patterns": [
+          "Nzou mutupo pana vanhu paseri ava machikichori"
+         
+        ],
+        "responses": [
+          "Pane humwe hunhu hunovanzwa pane vanhu asi kana wave kusina vanyarikani hunobuda pachena"
+          
+        ]
+      },
+      {
+        "tag": "idiom 18",
+        "patterns": [
+          "Chinogova ruoko muromo haugovi"
+         
+        ],
+        "responses": [
+          "Kunaka kwemunhu kunoonekwa pamabasa kwete pakutaura"
+          
+        ]
+      },
+      {
+        "tag": "idiom 19",
+        "patterns": [
+          "Chakaenzanwa ibvudzi upfumi hahuna kuenzanwa"
+         
+        ],
+        "responses": [
+          "Chero vanhu vari vamwechete munhu anotofanira kuzvishandira ega kuti awane chake"
+          
+        ]
+      },
+      {
+        "tag": "idiom 20",
+        "patterns": [
+          "Chinokokwa upfumi urombo hunozvikoka"
+         
+        ],
+        "responses": [
+          "Munhu anotsvaga zvakanaka, zvakaipa zvinouya zvega"
+          
+        ]
+      },
+      {
+        "tag": "idiom 21",
+        "patterns": [
+          "Chinokura usipo imombe munda unokura nokuvandurirwa"
+         
+        ],
+        "responses": [
+          "Zvimwe zvinhu muhupenyu zvinotoda kuti uzvishandire, hazvingouye zvega"
+          
+        ]
+      },
+      {
+        "tag": "idiom 22",
+        "patterns": [
+          "Chigere ibwe muti unowa"
+         
+        ],
+        "responses": [
+          "Munhu anofanira kuziva kuti zvimwe zvinhu zvakaita sehupenyu zvinotoguma chete"
+          
+        ]
+      },
+      {
+        "tag": "idiom 23",
+        "patterns": [
+          "Ane marengenya haacharike moto"
+         
+        ],
+        "responses": [
+          "Munhu anoziva zvaari hazvipfakaidze paasingafanire"
+          
+        ]
+      },
+      {
+        "tag": "idiom 24",
+        "patterns": [
+          "Wakagarika ngewakafa mupenyu pfumo riri mushure"
+         
+        ],
+        "responses": [
+          "Pakurarama unogona kungowirwa nedambudziko kana rufu chero nguva"
+          
+        ]
+      },
+      {
+        "tag": "idiom 25",
+        "patterns": [
+          "Ibangano muchateya kuzondoona kwava kwomumwe chete"
+         
+        ],
+        "responses": [
+          "Vanhu vazhinji vanoda kushanda nevamwe vachatanga chunhu asi kana chabudirira voti ndechavo vega vokanganwa vaye vakavabatsira kwekutanga"
+          
+        ]
+      },
+      {
+        "tag": "idiom 26",
+        "patterns": [
+          "kupedza nyota kuenda padziva"
+        ],
+        "responses": [
+          "kupedza nharo kana kukonana kubvunza munhu anonyatsoziva nezvenyaya yacho"
+        ]
+      },
+      {
+        "tag": "idiom 27",
+        "patterns": [
+          "charovedzera charovedzera gudo rakakwira mawere kwasviba"
+        ],
+        "responses": [
+          "munhu akange ashinga kuita chinhu hachikoniwi kunyangwe aine zvingamutadzise"
+        ]
+      },
+      {
+        "tag": "idiom 28",
+        "patterns": [
+          "dzvinyu kuzambira zuva huona bako"
+        ],
+        "responses": [
+          "kana munhu achiita chinhu chaanoziva kuti chingamukuvadzisa kana kumupinza mumhosva anenge atogadzirira kare"
+        ]
+      },
+      {
+        "tag": "idiom 29",
+        "patterns": [
+          "kuziva mbuya huudzwa"
+        ],
+        "responses": [
+          "munhu anoziva nezvemunhu mushure mekunge audzwa nomumwe"
+        ]
+      },
+      {
+        "tag": "idiom 30",
+        "patterns": [
+          "chirema ndechine mazano chinotamba chakazendamira madziro"
+        ],
+        "responses": [
+          "munhu ane hurema hwake ane maitiro ake kuti arege kusekwa nevamwe kana akundikana muhupenyu"
+        ]
+      },
+      {
+        "tag": "idiom 31",
+        "patterns": [
+          "kuramba nyama yechidembo hunge uine yetsuro"
+        ],
+        "responses": [
+          "munhu anoramba chinhu achiti chakaipa anenge ane chimwe chiri nane pane chanoramba"
+        ]
+      },
+      {
+        "tag": "idiom 32",
+        "patterns": [
+          "chirega kutya kununa iwe wakasasikwa"
+        ],
+        "responses": [
+          "kana munhu azvipira kuita basa rakaoma hafaniri kutya kushorwa kana kukuvadzwa naro "
+        ]
+      },
+      {
+        "tag": "idiom 33",
+        "patterns": [
+          "chinono chine ingwe bere rakadya richifamba"
+        ],
+        "responses": [
+          "kana munhu achiita chinhu ngakurumidze nacho nokuti kunonoka kungakonzeresa zvinhu zvizhinji zvingamutadzise kuchipedza"
+        ]
+      },
+      {
+        "tag": "idiom 34",
+        "patterns": [
+          "zino irema rinosekerera newarisingade"
+        ],
+        "responses": [
+          "nokusaziva pamwe munhu angangafoira mumwe munhu anomuvenga zvokutoda kumuuraya"
+        ]
+      },
+      {
+        "tag": "idiom 35",
+        "patterns": [
+          "zundu kugara mundowe hunzi ndave mombewo"
+        ],
+        "responses": [
+          "kana munhu akagara nevapfumi iye ari murombo anoda kuzvitora semupfumiwo"
+        ]
+      },
+      {
+        "tag": "idiom 36",
+        "patterns": [
+          "chafamba kamwe hachichateyiwi"
+        ],
+        "responses": [
+          "kana munhu akapara mhosva kokutanga anoregererwa aine tarisiro yokuti haachaparizve mhosva yakaita saiyoyo"
+        ]
+      },
+      {
+        "tag": "idiom 37",
+        "patterns": [
+          "kana museve woda nyama unodauka pauta"
+        ],
+        "responses": [
+          "kana munhu achipara mhosva pamwe anongoerekana aipara asingazive kuti zvichafamba sei"
+        ]
+      },
+      {
+        "tag": "idiom 38",
+        "patterns": [
+          "simba rehove riri mumvura"
+        ],
+        "responses": [
+          "munhu anoita simba kana ari pamusha pake"
+        ]
+      },
+      {
+        "tag": "idiom 39",
+        "patterns": [
+          "mbwende haina vanga"
+        ],
+        "responses": [
+          "munhu anotya haagari ane maronda nokuti haadenhi kana kurwa nemunhu"
+        ]
+      },
+      {
+        "tag": "idiom 40",
+        "patterns": [
+          "mago anoruma mutokonyi"
+        ],
+        "responses": [
+          "munhu anoita musikanzwa achitamba nezvinokuvadza ndiye anozoguma apinda mumatambudziko"
+        ]
+      },
+      {
+        "tag": "idiom 41",
+        "patterns": [
+          "kumuzinda hakuna woko"
+        ],
+        "responses": [
+          "padare rashe hapana zvechizivano kana ukama, murau unopa mhosva kune vanenge vautyora"
+        ]
+      },
+      {
+        "tag": "idiom 42",
+        "patterns": [
+          "kutaurirwa hunyimwa mbare dzokumusana"
+        ],
+        "responses": [
+          "zvinhu zvokutaurirwa hazvinyatsogutsa munhu pane kuita zvokukuzvionera"
+        ]
+      },
+      {
+        "tag": "idiom 43",
+        "patterns": [
+          "gotsi rutsito"
+        ],
+        "responses": [
+          "kana munhu achinge afamba rwendo achibva pamusha, hangazvizivi zvinosara zvichiiika asipo"
+        ]
+      },
+      {
+        "tag": "idiom 44",
+        "patterns": [
+          "chikuriri chine chimwe chikuriri chacho"
+        ],
+        "responses": [
+          "paupenyu hwavanhu hapana chisina chimwe chinochikurira"
+        ]
+      },
+      {
+        "tag": "idiom 45",
+        "patterns": [
+          "meso haana muganhu"
+        ],
+        "responses": [
+          "hapana panonzi munhu asatarise, kunyangwe zvinonyadza, anongoerekana atarisa"
+        ]
+      },
+      {
+        "tag": "idiom 46",
+        "patterns": [
+          "bveni kuipa zvaro haridyi chakafa choga"
+        ],
+        "responses": [
+          "kunyange munhu akava nomwoyo wakaipa zvakadii anowana rumwe rutivi rwaanosema zvakaipa"
+        ]
+      },
+      {
+        "tag": "idiom 47",
+        "patterns": [
+          "chakanaka chakanaka mukaka haurungwi munyu"
+        ],
+        "responses": [
+          "kana chinhu chichinge chakanaka hachishanduki kuva chakaipa nokuda kwokutaura kwevanhu pamusoro pacho"
+        ]
+      },
+      {
+        "tag": "idiom 48",
+        "patterns": [
+          "kuwanda huuya museve wakapotera pamuzukuru"
+        ],
+        "responses": [
+          "kuva nehama zhinji kana vamwewo vaunoziva zvinobatsira panguva yenjodzi"
+        ]
+      },
+      {
+        "tag": "idiom 49",
+        "patterns": [
+          "kufa kwomurume kubuda ura"
+        ],
+        "responses": [
+          "munhu womurume hafanhirwi kudedera kana achinge ava mukurwadziwa kupi nokupi"
+        ]
+      },
+      {
+        "tag": "idiom 50",
+        "patterns": [
+          "simba mukaka,rinosinira"
+        ],
+        "responses": [
+          "simba hariperi pamuviri"
+        ]
+      },
+      {
+        "tag": "idiom 51",
+        "patterns": [
+          "mbeva zhinji hadzina marise"
+        ],
+        "responses": [
+          "vanhu vazhinji vanoita mukarirano pabasa"
+        ]
+      },
+      {
+        "tag": "idiom 52",
+        "patterns": [
+          "matanda masairirwa unosiya nerakaora"
+        ],
+        "responses": [
+          "kune zvinhu zvinongotyiwa mumaziso avanhu izvo zviri nyore kuzviita"
+        ]
+      },
+      {
+        "tag": "idiom 53",
+        "patterns": [
+          "regai dzive shiri mazai haana muto"
+        ],
+        "responses": [
+          "rega kukurumidza chinhu chisati chasvika panguva yacho"
+        ]
+      },
+      {
+        "tag": "idiom 54",
+        "patterns": [
+          "uswa hwenyathi ndohuri mudumbu, huri pamuromo inofa nahwo "
+        ],
+        "responses": [
+          "regera kuvimba nechinhu chausati wava nacho"
+        ]
+      },
+      {
+        "tag": "idiom 55",
+        "patterns": [
+          "usatanga kumedza kutsenga uchada"
+        ],
+        "responses": [
+          "usachimbidza kuita chinhu usati wafunga"
+        ]
+      },
+      {
+        "tag": "idiom 56",
+        "patterns": [
+          "chirungurira chirwere, kunyarara unofa nacho"
+        ],
+        "responses": [
+          "chigumbu choga chinorwadza mwoyo womunhu nokudaro unofanira kuchitaura kuti usununguke"
+        ]
+      },
+      {
+        "tag": "idiom 57",
+        "patterns": [
+          "rume rimwe harikombi churu"
+        ],
+        "responses": [
+          "munhu mumwe chete haangagoni kuita basa rinokodzera kuitwa navanhu vazhinji"
+        ]
+      },
+      {
+        "tag": "idiom 58",
+        "patterns": [
+          "musikana chihambakwe asvika anokanda chibwe"
+        ],
+        "responses": [
+          "muhukadzi zvikuru musikana anodiwa nomurume oga oga. izvo zvinoita kuti chero asvika paari anosvitsa shoko"
+        ]
+      },
+      {
+        "tag": "idiom 59",
+        "patterns": [
+          "hapana mutunhu usina nguva"
+        ],
+        "responses": [
+          "rufu ruri kwose kwose"
+        ]
+      },
+      {
+        "tag": "idiom 60",
+        "patterns": [
+          "kuvaraidza zuva kuteya nzou neriva"
+        ],
+        "responses": [
+          "kunenge kuri kungovaraidza nguva kana munhu achiita chasingafi akagona"
+        ]
+      },
+      {
+        "tag": "idiom 61",
+        "patterns": [
+          "kugara nhaka huona dzevamwe"
+        ],
+        "responses": [
+          "kuti unoziva chinhu kunge wakambochiona chichiitwa nevamwe"
+        ]
+      },
+      {
+        "tag": "idiom 62",
+        "patterns": [
+          "Muto wetsenza ndiwo mumwe"
+        ],
+        "responses": [
+          "vanhukadzi vose vakafanana"
+        ]
+      },
+      {
+        "tag": "idiom 63",
+        "patterns": [
+          "mhosva haizvitongi"
+        ],
+        "responses": [
+          "kana ishe akapara mhosva hazvitongi anotongwa nevamwe"
+        ]
+      },
+      {
+        "tag": "idiom 64",
+        "patterns": [
+          "chikombe chitekesi chechimwe kana chimwe chisipo"
+        ],
+        "responses": [
+          "zviri nyore kushora nekushoropodza munhu kana achinge asipo"
+        ]
+      },
+      {
+        "tag": "idiom 65",
+        "patterns": [
+          "kashiri kashaya besu hakanzi inyana"
+        ],
+        "responses": [
+          "munhu akava nomhumhu mudiki hazvirevi kuti ipwere"
+        ]
+      },
+      {
+        "tag": "idiom 66",
+        "patterns": [
+          "chisi hachiere musi wacharimwa"
+        ],
+        "responses": [
+          "munhu harangwi pazuva ratadza iroro"
+        ]
+      },
+      {
+        "tag": "idiom 67",
+        "patterns": [
+          "chiri mumoyo chiri muninga"
+        ],
+        "responses": [
+          "hapana munhu angafembere zvaunofunga kana usina kuzvitaura iwe pachako"
+        ]
+      },
+      {
+        "tag": "idiom 68",
+        "patterns": [
+          "nhumbu mukadzi mukuru hairevi chayadya"
+        ],
+        "responses": [
+          "munhu mukuru haawanzoburitsa zvaanenge anzwa zvemakuhwa kana nyaya dziri mumwoyo make"
+        ]
+      },
+      {
+        "tag": "idiom 69",
+        "patterns": [
+          "rina manyanga hariputirwe mumushunje"
+        ],
+        "responses": [
+          "chose chinhu chakaipa chinozoguma nokuonekwa kana kubuda pachena"
+        ]
+      },
+      {
+        "tag": "idiom 70",
+        "patterns": [
+          "kamoto kamberevere kanopisa matanda mberi "
+        ],
+        "responses": [
+          "tsika yakaipa inotanga iri duku asi inozokura ikakonzera rufu rwevanhu vazhinji"
+        ]
+      },
+  
+      {
+        "tag": "idiom 71",
+        "patterns": [
+          "chimombe cheshure chinosairira maponda"
+        ],
+        "responses": [
+          "kuwanzosaririra uchiita chinhu ivo vamwe vose vachiregera unopinda munjodzi"
+        ]
+      },
+  
+      {
+        "tag": "idiom 72",
+        "patterns": [
+          "takabva nako kumhunga hakuna ipwa"
+        ],
+        "responses": [
+          "kurayira kwemunhu akamboita zvakaipa akazoona kuti zvine ngozi"
+        ]
+      },
+  
+      {
+        "tag": "idiom 73",
+        "patterns": [
+          "ane marengenya haadariki moto"
+        ],
+        "responses": [
+          "kana munhu ari murombo hafaniri kuda kuedzawo kuita zvinoitwa nevapfumi"
+        ]
+      },
+  
+      {
+        "tag": "idiom 74",
+        "patterns": [
+          "seka urema wafa"
+        ],
+        "responses": [
+          "usaseka munhu akaremara nokuti iwe mangwana unogona kufuma waremarawo"
+        ]
+      },
+  
+      {
+        "tag": "idiom 75",
+        "patterns": [
+          "tsuro haipunyuki rutsva kaviri"
+        ],
+        "responses": [
+          "kashoma kuti munhu apunyuke munjodzi kana kuti mhosva kaviri"
+        ]
+      },
+  
+      {
+        "tag": "idiom 76",
+        "patterns": [
+          "chati homu chareva"
+        ],
+        "responses": [
+          "kana munhu achiramba kuteerera zvanoudzwa anozopedzisira ava mumatambudziko"
+        ]
+      },
+  
+      {
+        "tag": "idiom 77",
+        "patterns": [
+          "zvikoni zvikoni mimba haibvi negosoro"
+        ],
+        "responses": [
+          "kana munhu akaedza chinhu chikaramba, haafaniri kuchimanikidza nokuti chinozopedzisira chamupandukira "
+        ]
+      },
+  
+      {
+        "tag": "idiom 78",
+        "patterns": [
+          "nhambetambe inoregwa ichanaka"
+        ],
+        "responses": [
+          "kutamba kwose nezvose zvinokonzera mufaro zvakafanira kugumiswa zvisati zvasvika pakuipa"
+        ]
+      },
+  
+      {
+        "tag": "idiom 79",
+        "patterns": [
+          "mombe yokuronzera kama wakaringa nzira"
+        ],
+        "responses": [
+          "chinhu chisiri chako kana chiya chokuronzerwa hachina chivimbo nomuridzi anogona kuuya kuzotora chero nguva"
+        ]
+      },
+  
+      {
+        "tag": "idiom 80",
+        "patterns": [
+          "usashora mbodza neinozvimbira"
+        ],
+        "responses": [
+          "chinhu chinoshoreka kazhinji kacho ndicho chinobatsira"
+        ]
+      },
+  
+      {
+        "tag": "idiom 81",
+        "patterns": [
+          "gudo guru peta muswe vadiki vakutye"
+        ],
+        "responses": [
+          "munhu mukuru anofanira kuzvibata netsika younhu kuti vaya vari pasi pake vagomuremekedza"
+        ]
+      },
+      {
+        "tag": "idiom 82",
+        "patterns": [
+          "natsa kwaunobva kwaunoenda husiku"
+        ],
+        "responses": [
+          "usatadzirana nevagarisani uchiti wava kutama zvichida unogona kuzodzoka uchida rubatsiro kana zvisina kukufambira zvakanaka kwaunenge waenda"
+        ]
+      },
+  
+      {
+        "tag": "idiom 83",
+        "patterns": [
+          "ziva kwawabva nokuti mudzimu weshiri uri mudendere"
+        ],
+        "responses": [
+          "munhu anofanira kurangarira tsika dzechivanhu, mhuri kana dzinza rake kunyange ari kure zvakadi.hafaniri kukanganwa kumusha kwake"
+        ]
+      },
+  
+      {
+        "tag": "idiom 84",
+        "patterns": [
+          "ugaro mwena kutevedza unoguma"
+        ],
+        "responses": [
+          "kunyanwe munhu akagarika zvakanaka zvakadii zvinoti zvigume chete"
+        ]
+      },
+      {
+        "tag": "idiom 85",
+        "patterns": [
+          "aiva madziva ava mazambuko"
+        ],
+        "responses": [
+          "zvinhu muhupenyu zvinoshanduka"
+        ]
+      },
+      {
+        "tag": "idiom 86",
+        "patterns": [
+          "chisingapere chinoshura"
+        ],
+        "responses": [
+          "chinhu chese chine magumo acho"
+        ]
+      },
+      {
+        "tag": "idiom 87",
+        "patterns": [
+          "mbudzi yafura mumera yatorunza"
+        ],
+        "responses": [
+          "kana munhu akajairira kuita chinhu, chikamunakira haacharegi kunyange chakaipa zvakadii"
+        ]
+      },
+      {
+        "tag": "idiom 88",
+        "patterns": [
+          "totenda maruva tadya chakata"
+        ],
+        "responses": [
+          "kushaya ruvimbo nemunhu kuti angaite zvinobudirira"
+        ]
+      },
+      {
+        "tag": "idiom 89",
+        "patterns": [
+          "kakara hununa kudya kamwe"
+        ],
+        "responses": [
+          "mumwe munhu anenge achibudirira achishandisa simba revamwe vanhu"
+        ]
+      },
+      {
+        "tag": "idiom 90",
+        "patterns": [
+          "mapudzi anowira kusina hari"
+        ],
+        "responses": [
+          "makomborero anowanzovinga vanhu vasingagone kushandisa "
+        ]
+      },
+      {
+        "tag": "idiom 91",
+        "patterns": [
+          "chakupa ronda chati nhunzi dzikudye"
+        ],
+        "responses": [
+          "kana munhu achiteta matambudziko, kana achinge amuwira anototi atirire kuti apfure"
+        ]
+      },
+      {
+        "tag": "idiom 92",
+        "patterns": [
+          "matakadya kare hanyaradzi mwana "
+        ],
+        "responses": [
+          "zvinhu zvakaitika kare zvikapfuura nenguva yazvo hazvigoni kubatsira munhu pazuva ranhasi"
+        ]
+      },
+      {
+        "tag": "idiom 93",
+        "patterns": [
+          "igangaidza mukwenyi mhezi kuvavarira mudumbu"
+        ],
+        "responses": [
+          "kana nhamo ikakwira munhu nenzira inomuita kuti atadze kurwisa anodzimara asiyana nayo"
+        ]
+      },
+      {
+        "tag": "idiom 94",
+        "patterns": [
+          "gengezha mukombe hazvienzani nekunwira mudemhe"
+        ],
+        "responses": [
+          "zvirianani kuwana chinhu chidiki-diki pane kushaya zvachose"
+        ]
+      },
+      {
+        "tag": "idiom 95",
+        "patterns": [
+          "inochema ndoiri paurimbo, iri muriva inoti denga rawa"
+        ],
+        "responses": [
+          "munhu anochema achiti ane nhamo ndouya ane shoma, ane dzakawanda anoti kufa kurinani"
+        ]
+      },
+      {
+        "tag": "idiom 96",
+        "patterns": [
+          "chingoma chisiri ndicho chiparuki"
+        ],
+        "responses": [
+          "kana chinhu chonyanya kutaurwa nezvacho ndiyo nguva yachinobva chasvika kumagumo"
+        ]
+      },
+      {
+        "tag": "idiom 97",
+        "patterns": [
+          "mwoyochena wei tsvimborume kubvisa mwana wemvana madziwa"
+        ],
+        "responses": [
+          "kana munhu achibatsira mumwe anenge aine zvanoda mangwana kubva kune uya waanobatsira pachena"
+        ]
+      },
+      {
+        "tag": "idiom 98",
+        "patterns": [
+          "muromo hauzarirwi nerwizi "
+        ],
+        "responses": [
+          "hazvinetsi kutaura nomuromo kana munhu achivimbisa chinhu"
+        ]
+      },
+      {
+        "tag": "idiom 99",
+        "patterns": [
+          "chiripo chariuraya zizi harifi nemhepo "
+        ],
+        "responses": [
+          "chinhu choga choga chinoitika panenge paine munhu achiita hapana chinoitika pasina chikonzero"
+        ]
+      },
+      {
+        "tag": "idiom 100",
+        "patterns": [
+          "chinokanganwa idemo muti haukanganwe"
+        ],
+        "responses": [
+          "munhu anotsamwisa mumwe anokurumidza kukanganwa mhosva yake asi uya atadzirwa hakanganwi "
+        ]
+      },
+      {
+        "tag": "idiom 101",
+        "patterns": [
+          "afirwa hatiriswi kumeso"
+        ],
+        "responses": [
+          "munhu anenge atadzirwa kana kufirwa hakwanisi kufunga zvakanaka, nokudaro haatarisirwi kuti aite zvinhu nomazvo zvemisi yose"
+        ]
+      },
+      {
+        "tag": "idiom 102",
+        "patterns": [
+          "akweva sanzu akweva namashizha aro"
+        ],
+        "responses": [
+          "kana ukatora ukachengeta munhu ane vamwe pasi pake vaanoriritira, ibva waziva kuti unopedzisira wachengeta wose "
+        ]
+      },
+      {
+        "tag": "idiom 103",
+        "patterns": [
+          "ane mombe yake anoziva makumiro ayo"
+        ],
+        "responses": [
+          "agara nomunhu wake anoziva maitiro ake"
+        ]
+      },
+      {
+        "tag": "idiom 104",
+        "patterns": [
+          "chawawana idya nehama mutorwa ane hanganwa "
+        ],
+        "responses": [
+          "munhu garoyamurana nevoukama hwako nokuti ndivo vanozokubatsira panguva yenjodzi "
+        ]
+      },
+      {
+        "tag": "idiom 105",
+        "patterns": [
+          "chinoziva ivhu kuti mwana wembeva anorwara"
+        ],
+        "responses": [
+          "hakuna munhu angaziva zviri muhana yomumwe munhu kunze kwaiye munhu wacho"
+        ]
+      },
+      {
+        "tag": "idiom 106",
+        "patterns": [
+          "chikomo shata divi rimwe ritambire pwere"
+        ],
+        "responses": [
+          "kana munhu akaipa ngaavewo nedzimwe tsika dzakanaka kuti agowana vamwe vanhu vanomuda"
+        ]
+      },
+      {
+        "tag": "idiom 107",
+        "patterns": [
+          "nhamo yomumwe hairambirwi sadza"
+        ],
+        "responses": [
+          "mumwe nomumwe anotofanira kuzvionera nhamo dzake nokuti"
+        ]
+      },
+      {
+        "tag": "idiom 108",
+        "patterns": [
+          "china manenji hachifambisi, chinomirira kuti mavara acho aonekwe"
+        ],
+        "responses": [
+          "nguva dzose kana paine chinhu chinoshamisa chinoda kuitika, kunotanga manenji nezvimwe zviitiko zvakakomba"
+        ]
+      },
+      {
+        "tag": "idiom 109",
+        "patterns": [
+          "rugare rwenda kuruma akaitakura"
+        ],
+        "responses": [
+          "munhu haafaniri kunditsika vareri navachengeti vake"
+        ]
+      },
+      
+      {
+        "tag": "idiom 110",
+        "patterns": [
+          "chikomo chiremera chevari kure vari pedyo vanotamba nacho"
+        ],
+        "responses": [
+          "vanhu vasingazivi magariro omunhu vanomutya nokumuzeza"
+        ]
+      },
+      
+      {
+        "tag": "idiom 111",
+        "patterns": [
+          "kuudza mwana hupedzisira"
+        ],
+        "responses": [
+          "kana munhu achiudza mwana anofanira kumutsanangurira nokuona kuti anzwisisa"
+        ]
+      },
+      
+      {
+        "tag": "idiom 112",
+        "patterns": [
+          "chava chigondora chava chimombe, kutadza kutunga urema hwacho"
+        ],
+        "responses": [
+          "kana mwana ayaruka achitadza kuzvimiririra urema hwake"
+        ]
+      },
+      
+      {
+        "tag": "idiom 113",
+        "patterns": [
+          "kugocha kunoda amai kwomwana kunodzima moto"
+        ],
+        "responses": [
+          "mumwe nomumwe anoda kukanganisa kuri kwake asi kana kwoitwa nepwere haachazvifariri "
+        ]
+      },
+      
+      {
+        "tag": "idiom 114 ",
+        "patterns": [
+          "mugoni wepwere ndouasinayo"
+        ],
+        "responses": [
+          "kana munhu asina mwana anofunga kuti iye angagone kurayira vana nokuvadzidzisa tsika dzakanaka"
+        ]
+      },
+      
+      {
+        "tag": "idiom 115",
+        "patterns": [
+          "ura mapako unozvara mbavha nomuroyi"
+        ],
+        "responses": [
+          "vabereki vakarurama vanogona kuzvara mbavha, nzenza nenhunzvatunzva"
+        ]
+      },
+      
+      {
+        "tag": "idiom 116",
+        "patterns": [
+          "badza guru kupa murimi kuripa nyope inovata naro"
+        ],
+        "responses": [
+          "kuti chinhu chinozoita basa rakanaka hunge chatopiwa kumunhu anoziva nokugona kushanda nacho"
+        ]
+      },
+      
+      {
+        "tag": "idiom 117",
+        "patterns": [
+          "chasoodza chava chitiiyo"
+        ],
+        "responses": [
+          "kana munhu akange akura, ayaruka anotarisirwa kuitawo zvinhu zvechikuru"
+        ]
+      },
+      
+      {
+        "tag": "idiom 118",
+        "patterns": [
+          "panoda mwoyo nzira haisviki"
+        ],
+        "responses": [
+          "kazhinji munhu waunodidisisa kuti ave shamwari yako ndiye waunoona achikusema  "
+        ]
+      },
+      {
+        "tag": "idiom 119",
+        "patterns": [
+          "nhava inorema yasvika"
+        ],
+        "responses": [
+          "basa rinowanzorema kana rava kuda kupera"
+        ]
+      },
+      
+      {
+        "tag": "idiom 120",
+        "patterns": [
+          "makunun'unu maodzamwoyo"
+        ],
+        "responses": [
+          "kufunga zvakadzama zvinoita kuti munhu apedzesere apera muviri"
+        ]
+      },
+      
+      {
+        "tag": "idiom 121",
+        "patterns": [
+          "zongororo kugonya haro asi shungu rinadzo"
+        ],
+        "responses": [
+          "munhu anogona kuratidzika seakanyanyarara asi aine shungu mumwoyo make"
+        ]
+      },
+      
+      {
+        "tag": "idiom 122",
+        "patterns": [
+          "kurumwa netsikidzi rambira mumba, chitete chinopinza pane chikobvu"
+        ],
+        "responses": [
+          "kurwa nokupopotedzana kwavanhu vemhuri imwechete kwakafanira kupedzwa naivo pachavo nokuti kupindira kwevokunze kunogona kuparadza mhuri "
+        ]
+      },
+      
+      {
+        "tag": "idiom 123",
+        "patterns": [
+          "kurera  nhiriri mangwana inofuma yokupandukira"
+        ],
+        "responses": [
+          "ukabatsira munhu anenge ari padambudziko unozodemba kana ava kukupandukira"
+        ]
+      },
+      
+      {
+        "tag": "idiom 124",
+        "patterns": [
+          "Tendai muchero ugowisa"
+        ],
+        "responses": [
+          "kupiwa chinhu nomunhu ratidza rutendo rwako kuti mangwana agofarira kupazve"
+        ]
+      },
+      
+      {
+        "tag": "idiom 125",
+        "patterns": [
+          "Apunyaira haashayi misodzi"
+        ],
+        "responses": [
+          "munhu akaita chinhu nemwoyo wose haashayi mubayiro"
+        ]
+      },
+      
+      {
+        "tag": "idiom 126",
+        "patterns": [
+          "hapana imba isina gonzo"
+        ],
+        "responses": [
+          "hapana musha kana nyika isina munyangadzi"
+        ]
+      },
+      {
+        "tag": "idiom 127",
+        "patterns": [
+          "nzombe huru yakabva mukurerwa"
+        ],
+        "responses": [
+          "chinhu chose chikuru chine mbiri chakatanga chiri chidiki"
+        ]
+      },
+      
+      {
+        "tag": "idiom 128",
+        "patterns": [
+          "Chakafukidza dzimba matenga "
+        ],
+        "responses": [
+          "mudzimba dzavanhu munoratidzika semune runyararo asi muzere kurwa nokutukana zvizivikanwi nevazhinji"
+        ]
+      },
+      
+      {
+        "tag": "idiom 129",
+        "patterns": [
+          "kwadzinorohwa matumbu ndiko kwadzinomhanyira"
+        ],
+        "responses": [
+          "kazhinji vakadzi vanowanzoda varume vanoshusha, vanovarova kana kuti vanhu vazhinji vanomhanyirira zvinhu zvinokuvadza"
+        ]
+      },
+      
+      {
+        "tag": "idiom 130",
+        "patterns": [
+          "mazvokuda mavanga enyora"
+        ],
+        "responses": [
+          "munhu anowira mungozi kana kufa nechinhu chokuzvisarudzira vanhu hamunzwiri tsitsi "
+        ]
+      },
+      
+      {
+        "tag": "idiom 131",
+        "patterns": [
+          "aridza mhere atya"
+        ],
+        "responses": [
+          "munhu anoteterea akapfugama achikumbira ruregerero anofanira kuregererwa nekuti anenge aona kutadza kwake"
+        ]
+      },
+      
+      {
+        "tag": "idiom 132",
+        "patterns": [
+          "ane benzi anerake kudzana anopururudza"
+        ],
+        "responses": [
+          "kana hama yako ichishorwa nevazhinji iwe haungamushoriwo asi unotomudzivirira nokumukuvadza"
+        ]
+      },
+      {
+        "tag": "idiom 133",
+        "patterns": [
+          "kandiro kanoenda kunobva kamwe"
+        ],
+        "responses": [
+          "munhu anoitira vamwe zvakanaka naiyewo anoitirwawo zvakanaka nokuti munhu wese anoda hama inomubatsira"
+        ]
+      },
+      
+      {
+        "tag": "idiom 134",
+        "patterns": [
+          "afa anaka"
+        ],
+        "responses": [
+          "kana munhu achinge afa hapana anenge achine chigumbu naye"
+        ]
+      },
+      
+      
+  
+      
+      {
+        "tag": "metaphor 1",
+        "patterns": [
+          "Kupura nyemba nemusana"
+        ],
+        "responses": [
+          "kugarika zvikuru"
+          
+        ]
+      },
+      {
+        "tag": "metaphor 2",
+        "patterns": [
+          "kunwisa mvura"
+        ],
+        "responses": [
+        "kunaka"
+      ]
+      },
+      {
+        "tag": "metaphor 3",
+        "patterns": [
+          "Kuita muonera pamwe chuma chemuzukuru"
+        ],
+        "responses": [
+        "kubatsirana"  
+        ]
+      },
+      {
+        "tag": "metaphor 4",
+        "patterns": [
+          "Kuve nechinya chiri pahuma segurwe"
+        ],
+        "responses": [
+          "kuve nehasha zvikuru"
+          
+        ]
+      },
+      {
+        "tag": "metaphor 5",
+        "patterns": [
+          "Kuzvimbirwa nenyemba dzevabvuwi"
+        ],
+        "responses": [
+        "kuita pamuviri"  
+        ]
+      },
+      {
+        "tag": "metaphor 6",
+        "patterns": [
+          "Kuita gomo risina ukwiriko"
+        ],
+        "responses": [
+        "munhu anotyisa kana atsamwa"  
+        ]
+      },
+      {
+        "tag": "metaphor 7",
+        "patterns": [
+          "Kufemera pamusoro sendere"
+        ],
+        "responses": [
+         "kutsamwa zvakanyanya" 
+        ]
+      },
+      {
+        "tag": "metaphor 8",
+        "patterns": [
+          "Kuitwa kanyama kanyama"
+        ],
+        "responses": [
+         "kubatsirana kurohwa" 
+        ]
+      },
+      {
+        "tag": "metaphor 9",
+        "patterns": [
+          "Kutsika madziro"
+        ],
+        "responses": [
+         "kurambisisa zvachose" 
+        ]
+      },
+      {
+        "tag": "metaphor 10",
+        "patterns": [
+          "Kuomesa musoro sedambakura"
+        ],
+        "responses": [
+        "kurambisisa"  
+        ]
+      },
+      {
+        "tag": "metaphor 11",
+        "patterns": [
+          "Kusiya wapisa musha"
+        ],
+        "responses": [
+         "kushaya musha wekudzokera kana warambwa nemurume" 
+        ]
+      },
+      {
+        "tag": "metaphor 12",
+        "patterns": [
+          "Kuve netsika dzakananzwa nembwa "
+        ],
+        "responses": [
+        "kuve nehunhu hwakashata"  
+        ]
+      },
+      {
+        "tag": "metaphor 13",
+        "patterns": [
+         "Kutevera kwakaenda dzeroora" 
+        ],
+        "responses": [
+         "kudzokera kumusha kwavo varambwa" 
+        ]
+      },
+      {
+        "tag": "metaphor 14",
+        "patterns": [
+         "Kubata mbereko" 
+        ],
+        "responses": [
+         "kuita pamuviri" 
+        ]
+      },
+      {
+        "tag": "metaphor 15",
+        "patterns": [
+         "Kuita bonde" 
+        ],
+        "responses": [
+         "kurara kwemunhurume nemunhukadzi" 
+        ]
+      },
+      {
+        "tag": "metaphor 16",
+        "patterns": [
+         "Kuisa musoro pamwe chete" 
+        ],
+        "responses": [
+         "kubatana pakuita chinhu chinounza budiriro" 
+        ]
+      },
+      {
+        "tag": "metaphor 17",
+        "patterns": [
+          "Kuita dzimba dzavo"
+        ],
+        "responses": [
+        "kuva nemusha nemhuri yavo"  
+        ]
+      },
+      {
+        "tag": "metaphor 18",
+        "patterns": [
+          "Kubva zera"
+        ],
+        "responses": [
+         "kuva wakura zvokugona kuroorwa" 
+        ]
+      },
+      {
+        "tag": "metaphor 19",
+        "patterns": [
+         "Kurova guva" 
+        ],
+        "responses": [
+         "kudzora mweya womufi mumusha" 
+        ]
+      },
+      {
+        "tag": "metaphor 20",
+        "patterns": [
+         "Kuchenura mufi" 
+        ],
+        "responses": [
+         "kuchenesa mweya womufi kuti ugone kuzochengeta mhuri yawa" 
+        ]
+      },
+      {
+        "tag": "metaphor 21",
+        "patterns": [
+         "Kugara gata" 
+        ],
+        "responses": [
+         "kuenda kun'anga kuti vaone kana guva risina kupiswa" 
+        ]
+      },
+      {
+        "tag": "metaphor 22",
+        "patterns": [
+         "Kugarwa nhaka" 
+        ],
+        "responses": [
+         "kupiwa murume mumhuri kwemukadzi mushure mekunge wake chaiye afa" 
+        ]
+      },
+      {
+        "tag": "metaphor 23",
+        "patterns": [
+         "Kuita choupombwe" 
+        ],
+        "responses": [
+         "kuita upfambi" 
+        ]
+      },
+      {
+        "tag": "metaphor 24",
+        "patterns": [
+          "Kuita museve waenda neuma"
+        ],
+        "responses": [
+          "kuenda zvekusadzoka"
+        ]
+      },
+      {
+        "tag": "metaphor 25",
+        "patterns": [
+          "Kudya mwoto"
+        ],
+        "responses": [
+          "kupopota zvikuru"
+        ]
+      },
+      {
+        "tag": "metaphor 26",
+        "patterns": [
+          "Kushamba pakashamba bveni"
+        ],
+        "responses": [
+          "kuita munyama wakakura"
+        ]
+      },
+      {
+        "tag": "metaphor 27",
+        "patterns": [
+          "Kufira mudutu sembeva"
+        ],
+        "responses": [
+          "kuwirwa nedambudziko usingazivi"
+        ]
+      },
+      {
+        "tag": "metaphor 28",
+        "patterns": [
+          "Kurasa muswe"
+        ],
+        "responses": [
+          "kufarisa"
+        ]
+      },
+      {
+        "tag": "metaphor 29",
+        "patterns": [
+          "Kudzipwa neganda remhuru"
+        ],
+        "responses": [
+          "kupinda mudambudziko nechinhu chidiki diki"
+        ]
+      },
+      {
+        "tag": "metaphor 30",
+        "patterns": [
+          "Kutema ugariri"
+        ],
+        "responses": [
+          "kushanda kwemunhurume kwaanatezvara kuti apiwe mukadzi"
+        ]
+      },
+      {
+        "tag": "metaphor 31",
+        "patterns": [
+          "Kuve zimunzwa riri mundove"
+        ],
+        "responses": [
+          "kukuvadza mumwe munhu muchihwande asingafungire."
+        ]
+      },
+      {
+        "tag": "metaphor 32",
+        "patterns": [
+          "Kutema gotsi nezvitsitsinho"
+        ],
+        "responses": [
+          "kumhanya zvakanyanya"
+        ]
+      },
+      {
+        "tag": "metaphor 33",
+        "patterns": [
+          "Kutswanya bete neura hwaro- "
+        ],
+        "responses": [
+          "kuita zvinhu nemazvo"
+        ]
+      },
+      {
+        "tag": "metaphor 34",
+        "patterns": [
+          "Chitsoka ndibereke"
+        ],
+        "responses": [
+          "kumhanya uchitiza"
+        ]
+      },
+      {
+        "tag": "metaphor 35",
+        "patterns": [
+          "Midzimu yakarwa imire"
+        ],
+        "responses": [
+          "kununurwa panjodzi"
+        ]
+      },
+      {
+        "tag": "metaphor 36",
+        "patterns": [
+          "Kuita gumi rakadya vaviri"
+        ],
+        "responses": [
+          "kumbundirana nekudonha mose"
+        ]
+      },
+      {
+        "tag": "metaphor 37",
+        "patterns": [
+          "Kuisa maoko"
+        ],
+        "responses": [
+          "kukwazisa muchiombera nokutaura chidawo chemunhu wamuri kukwazisa"
+        ]
+      },
+      {
+        "tag": "metaphor 38",
+        "patterns": [
+          "Kubaira zani"
+        ],
+        "responses": [
+          "kupa munhu mazano anovaka"
+        ]
+      },
+      {
+        "tag": "metaphor 39",
+        "patterns": [
+          "Akanwa zino"
+        ],
+        "responses": [
+          "akafunda zvikuru"
+        ]
+      },
+      {
+        "tag": "metaphor 40",
+        "patterns": [
+          "Zvagumirana muzhira"
+        ],
+        "responses": [
+          "zvatadza kupera"
+        ]
+      },
+      {
+        "tag": "metaphor 41",
+        "patterns": [
+          "Kusvikira rwanditora"
+        ],
+        "responses": [
+          "ndonyarara chete kana ndafa"
+        ]
+      },
+      {
+        "tag": "metaphor 42",
+        "patterns": [
+          "Kuparidza vhangeri"
+        ],
+        "responses": [
+          "kuudza nokushora vanhu vane uori"
+        ]
+      },
+      {
+        "tag": "metaphor 43",
+        "patterns": [
+          "Kubereka demo"
+        
+        ],
+        "responses": [
+          "kutiza apo unenge woda kurwiswa"
+        ]
+      },
+      {
+        "tag": "metaphor 44",
+        "patterns": [
+          "Kuita chisodzimate"
+        ],
+        "responses": [
+          "kunyepedzera kurwadziwa nedambudziko remumwe"
+        ]
+      },
+      {
+        "tag": "metaphor 45",
+        "patterns": [
+          "Kumonya muromo"
+        ],
+        "responses": [
+          "kutuka munhu nechemumwoyo"
+        ]
+      },
+      {
+        "tag": "metaphor 46",
+        "patterns": [
+          "Kukwenya mhuno nekasiyanwa"
+        ],
+        "responses": [
+          "kushuvira kuti chaizvo zvaunoda zviitike"
+        ]
+      },
+      {
+        "tag": "metaphor 47",
+        "patterns": [
+          "Kuseverana mumatama"
+        ],
+        "responses": [
+          "kutaurirana mashoko muchinyatsonzwanana"
+        ]
+      },
+      {
+        "tag": "metaphor 48",
+        "patterns": [
+          "Kuita tsika nditsikevo"
+        ],
+        "responses": [
+          "kugara muchingove mose musingambosiyani"
+        ]
+      },
+      {
+        "tag": "metaphor 49",
+        "patterns": [
+          "Kupura nyemba nemusana"
+        ],
+        "responses": [
+          "kuratidza kugarika kwakanyanya"
+        ]
+      },
+      {
+        "tag": "metaphor 50",
+        "patterns": [
+          "Kutsika mutsvanzva"
+        ],
+        "responses": [
+          "kuvamba kuve jaya muupenyu"
+        ]
+      },
+      {
+        "tag": "metaphor 51",
+        "patterns": [
+          "Kupfura shangu"
+        ],
+        "responses": [
+          "kutandadza"
+        ]
+      },
+      {
+        "tag": "metaphor 52",
+        "patterns": [
+          "Kubata makuku"
+        ],
+        "responses": [
+          "kubvuma mhosva yaunopomerwa"
+        ]
+      },
+      {
+        "tag": "metaphor 53",
+        "patterns": [
+          "Kurimirana kumiganhu"
+        ],
+        "responses": [
+          "kuvengana zvekusada kuonana"
+        ]
+      },
+      {
+        "tag": "metaphor 54",
+        "patterns": [
+          "kupedza ura"
+        ],
+        "responses": [
+          "kuguma kubereka vana nokuda kwokuti wakura"
+        ]
+      },
+      {
+        "tag": "metaphor 55",
+        "patterns": [
+          "kuita bete rawira mumukaka"
+        ],
+        "responses": [
+          "kutumwa uchibva waenda zvokusadzoka"
+        ]
+      },
+      {
+        "tag": "metaphor 56",
+        "patterns": [
+          "kuita gudzamudungwe"
+        ],
+        "responses": [
+          "kungoperekedzawo avo vanenge vachiita chinhu pasina chaunokwanisa kuita"
+        ]
+      },
+      {
+        "tag": "metaphor 57",
+        "patterns": [
+          "kukumbira gushe padzvinyu"
+        ],
+        "responses": [
+          "kukumbira chinhu kumunhu asina nechaanacho"
+        ]
+      },
+      {
+        "tag": "metaphor 58",
+        "patterns": [
+          "kunzi wakaroyiwa neakafa"
+        ],
+        "responses": [
+          "kuva netsika yakaipa isisade kupera"
+        ]
+      },
+      {
+        "tag": "metaphor 59",
+        "patterns": [
+          "kusiya ngoma ichirira"
+        ],
+        "responses": [
+          "kusiya zvinhu zvichiri kunakidza panzvimbo"
+        ]
+      },
+      {
+        "tag": "metaphor 60",
+        "patterns": [
+          "kuisa muromo mumhuno"
+        ],
+        "responses": [
+          "kutsamwa zvakaipisisa"
+        ]
+      },
+      {
+        "tag": "metaphor 61 ",
+        "patterns": [
+          "kudya danga"
+        ],
+        "responses": [
+          "kuroorerwa mwanasikana achibvisirwa pfuma"
+        ]
+      },
+      {
+        "tag": "metaphor 62 ",
+        "patterns": [
+          "kufumobata jongwe muromo"
+        ],
+        "responses": [
+          "kumuka mangwnanani ngwanani uchida kutamba rwendo"
+        ]
+      },
+      {
+        "tag": "metaphor 63 ",
+        "patterns": [
+          "kushaya ganda kumeso"
+        ],
+        "responses": [
+          "kuita zvinhu zvinonyadzisa pane vamwe asi usina hanya nazvo"
+        ]
+      },
+      {
+        "tag": "metaphor 64",
+        "patterns": [
+          "kuva nemeso meso"
+        ],
+        "responses": [
+          "munhurume kana munhukadzi ane ruchiva zvokuti anodanana nevanhu vakawanda"
+        ]
+      },
+      {
+        "tag": "metaphor 65",
+        "patterns": [
+          "kuva netsiye nyoro"
+        ],
+        "responses": [
+          "kunzwira vamwe tsitsi kana urombo"
+        ]
+      },
+      {
+        "tag": "metaphor 66",
+        "patterns": [
+          "kufambira mashungurapata"
+        ],
+        "responses": [
+          "kufambira chinhi chisina maturo"
+        ]
+      },
+      {
+        "tag": "metaphor 67",
+        "patterns": [
+          "kufira mafufu segonzo"
+        ],
+        "responses": [
+          "kuzvipinza mumatambudziko nechinhu chisina nebetsero"
+        ]
+      },
+      {
+        "tag": "metaphor 68",
+        "patterns": [
+          "kurova imbwa wakaviga mupinyi"
+        ],
+        "responses": [
+          "kurova mwana usingamuudzi zvaanenge atadza"
+        ]
+      },
+      {
+        "tag": "metaphor 69",
+        "patterns": [
+          "kuigochera pautsi"
+        ],
+        "responses": [
+          "kuita zvinhu zvinokoznera kukanganisika kwezvimwe zvinhu"
+        ]
+      },
+      {
+        "tag": "metaphor 70",
+        "patterns": [
+          "kuseura gotsi"
+        ],
+        "responses": [
+          "kunyeya munhu asipo"
+        ]
+      },
+      {
+        "tag": "metaphor 71",
+        "patterns": [
+          "kuteya nzeve "
+        ],
+        "responses": [
+          "kunyatsoterera"
+        ]
+      },
+      {
+        "tag": "metaphor 72 ",
+        "patterns": [
+          "kutungana kwembudzi"
+        ],
+        "responses": [
+          "kuita zvinhu zvekutamba"
+        ]
+      },
+      {
+        "tag": "metaphor 73",
+        "patterns": [
+          "kuigochera pautsi"
+        ],
+        "responses": [
+          "kuita zvinhu zvinokonzera kukanganisika kwezvimwe zvinhu"
+        ]
+      },
+      {
+        "tag": "metaphor 74",
+        "patterns": [
+          "kurovera shaya pasi"
+        ],
+        "responses": [
+          "kurara"
+        ]
+      },
+      {
+        "tag": "metaphor75 ",
+        "patterns": [
+          "kusekera muhapwa"
+        ],
+        "responses": [
+          "kuseka munhu usingabudi pachena"
+        ]
+      },
+      {
+        "tag": "metaphor 76",
+        "patterns": [
+          "kugarira maoko"
+        ],
+        "responses": [
+          "kuita nyope usingabatiwo basa"
+        ]
+      },
+      {
+        "tag": "metaphor 77",
+        "patterns": [
+          "kufuga rako wega"
+        ],
+        "responses": [
+          "kufa"
+        ]
+      },
+      {
+        "tag": "metaphor 78",
+        "patterns": [
+          "kuchena muromo"
+        ],
+        "responses": [
+          "kunzwa nzara"
+        ]
+      },
+      {
+        "tag": "metaphor 79",
+        "patterns": [
+          "kutsika mwedzi"
+        ],
+        "responses": [
+          "kuzvitakura"
+        ]
+      },
+      {
+        "tag": "metaphor 80",
+        "patterns": [
+          "kuzvipinza mumukanwa meshumba"
+        ],
+        "responses": [
+          "kuzvipinza mumatambudziko"
+        ]
+      },
+      {
+        "tag": "metaphor 81",
+        "patterns": [
+          "ku"
+        ],
+        "responses": [
+          "kuzvitakura"
+        ]
+      },
+      
+      {
+        "tag": "riddle 1",
+        "patterns": [
+          "Amai ndebvu baba ndebvu"
+        ],
+        "responses": [
+          "chibage"
+        ]
+      },
+      {
+        "tag": "riddle 2",
+        "patterns": [
+          "Chidya mafuta asingakori "
+        ],
+        "responses": [
+          "banga"
+        ]
+      },
+      {
+        "tag": "riddle 3",
+        "patterns": [
+          "Gomo rekwedu rinopfungaira ("
+        ],
+        "responses": [
+          "sadza"
+        ]
+      },
+      {
+        "tag": "riddle 4 ",
+        "patterns": [
+          "Jira rababa vangu risingapere kupetwa"
+        ],
+        "responses": [
+          "denga"
+        ]
+      },
+      {
+        "tag": "riddle 5",
+        "patterns": [
+          "Kakomana kakariga ishe padare "
+        ],
+        "responses": [
+          "hope"
+        ]
+      },
+      {
+        "tag": "riddle 6",
+        "patterns": [
+          "Kuenda humbangu, kudzoka humbangu"
+        ],
+        "responses": [
+          "gonhi"
+        ]
+      },
+      {
+        "tag": "riddle 7 ",
+        "patterns": [
+          "Mombe yababa vangu inonwa yakabatwa muswe"
+        ],
+        "responses": [
+          "mukombe"
+        ]
+      },
+      {
+        "tag": "riddle 8",
+        "patterns": [
+          " Mutumba unorira usina ura"
+        ],
+        "responses": [
+          "ngoma"
+        ]
+      },
+      {
+        "tag": "riddle 9",
+        "patterns": [
+          " Ndakwira mugomo ndikaona 7 "
+        ],
+        "responses": [
+          "demo"
+        ]
+      },
+      {
+        "tag": "riddle 10",
+        "patterns": [
+          "Simuka tienzane"
+        ],
+        "responses": [
+          "derere"
+        ]
+      },
+      {
+        "tag": "riddle 11 ",
+        "patterns": [
+          "Tamukomba tikamuparadza"
+        ],
+        "responses": [
+          "tsima yesadza"
+        ]
+      },
+      {
+        "tag": "riddle 12 ",
+        "patterns": [
+          "Tsotso munzira tsotso musango"
+        ],
+        "responses": [
+          "imbwa"
+        ]
+      },
+      {
+        "tag": "riddle 13",
+        "patterns": [
+          "Twukomana twunorwa hondo twakaisa makumbo mudenga"
+        ],
+        "responses": [
+          "feso"
+        ]
+      },
+      {
+        "tag": "riddle 14",
+        "patterns": [
+          " Tuma Tsitsi asinganyare"
+        ],
+        "responses": [
+          "tsamba"
+        ]
+      },
+      {
+        "tag": "riddle 15",
+        "patterns": [
+          "Zimuti rakati zhii tsotso nduje warara"
+        ],
+        "responses": [
+          "mwedzi nenyeredzi"
+        ]
+      },
+      {
+        "tag": "riddle 16",
+        "patterns": [
+          " Zinyamupiki zinyamufoshoro murungu asina mubhoyi"
+        ],
+        "responses": [
+          "gurwe"
+        ]
+      },
+      {
+        "tag": "riddle 17",
+        "patterns": [
+          "imba yababa vangu imire negumbo rimwe"
+        ],
+        "responses": [
+          "howa"
+        ]
+      },
+      {
+        "tag": "riddle 18",
+        "patterns": [
+          "chidemo tamba-tamba muswe ndakabata"
+        ],
+        "responses": [
+          "badza"
+        ]
+      },
+      {
+        "tag": "riddle 19",
+        "patterns": [
+          "mbuya vangu kutsvuka kutsvuka havo asi haabviri kuroya"
+        ],
+        "responses": [
+          "mhiripiri"
+        ]
+      },
+      {
+        "tag": "riddle 20",
+        "patterns": [
+          "ranga rababa vanguimire negumbo rimwe"
+        ],
+        "responses": [
+          "howa"
+        ]
+      },
+      {
+        "tag": "riddle 21",
+        "patterns": [
+          "njiva dzekwedu dzinobhururuka dzakatakura vanhu"
+        ],
+        "responses": [
+          "ndege"
+        ]
+      },
+      {
+        "tag": "riddle 22",
+        "patterns": [
+          "harahwa yakatasva mukoko"
+        ],
+        "responses": [
+          "svosve"
+        ]
+      },
+      {
+        "tag": "riddle 23 ",
+        "patterns": [
+          "harahwa yakatasva mukoko"
+        ],
+        "responses": [
+          "nyuchi"
+        ]
+      },
+      {
+        "tag": "riddle 24",
+        "patterns": [
+          "murume ndebvu, mukadzi ndebvu"
+        ],
+        "responses": [
+          "mbudzi"
+        ]
+      },
+      {
+        "tag": "riddle 25",
+        "patterns": [
+          "demo rangu mutemera kure"
+        ],
+        "responses": [
+          "pfuti"
+        ]
+      },
+      {
+        "tag": "riddle 26",
+        "patterns": [
+          "misisi akadongorera nepahwindo"
+        ],
+        "responses": [
+          "dziwa"
+        ]
+      },
+      {
+        "tag": "riddle 27",
+        "patterns": [
+          "mombe dzababa vangu chena dzoga dzoga"
+        ],
+        "responses": [
+          "mazino"
+        ]
+      },
+      {
+        "tag": "riddle 28",
+        "patterns": [
+          "bvisai bhachi tinakirwe"
+        ],
+        "responses": [
+          "mabhanana"
+        ]
+      },
+      {
+        "tag": "riddle 29",
+        "patterns": [
+          "mwana anozvarwa ane mvere asi kana akura hachina"
+        ],
+        "responses": [
+          "chibage"
+        ]
+      },
+      {
+        "tag": "riddle 30",
+        "patterns": [
+          "mwana wamai vangu asingadi kusiyana neni"
+        ],
+        "responses": [
+          "mumvuri"
+        ]
+      },
+      {
+        "tag": "riddle 31",
+        "patterns": [
+          "ndaenda ndasiya dziriko"
+        ],
+        "responses": [
+          "matsimba etsoka"
+        ]
+      },
+      {
+        "tag": "riddle 32",
+        "patterns": [
+          "ndagona kuburuka kukwira handichagoni"
+        ],
+        "responses": [
+          "shizha"
+        ]
+      },
+      {
+        "tag": "riddle 33",
+        "patterns": [
+          "ndamupa ndamutorera"
+        ],
+        "responses": [
+          "mutariko"
+        ]
+      },
+      {
+        "tag": "riddle 34",
+        "patterns": [
+          "ndamusiya akakombwa, hameno akapona"
+        ],
+        "responses": [
+          "sadza"
+        ]
+      },
+      {
+        "tag": "riddle 35",
+        "patterns": [
+          "ndoshuva hama yangu iri pedo pedo"
+        ],
+        "responses": [
+          "gotsi"
+        ]
+      },
+      {
+        "tag": "riddle 36",
+        "patterns": [
+          "nzira mbiri dzinopinda mugomo"
+        ],
+        "responses": [
+          "mhino"
+        ]
+      },
+      {
+        "tag": "riddle 37",
+        "patterns": [
+          "pota neko tisangane"
+        ],
+        "responses": [
+          "bhande"
+        ]
+      },
+      {
+        "tag": "riddle 38",
+        "patterns": [
+          "rakazvirova rikazhamba"
+        ],
+        "responses": [
+          "jongwe"
+        ]
+      },
+      {
+        "tag": "riddle 39",
+        "patterns": [
+          "vhara musiwo tione kutamba ngoma dzamashave"
+        ],
+        "responses": [
+          "sadza riri kukwata"
+        ]
+      },
+      {
+        "tag": "riddle 40 ",
+        "patterns": [
+          "sekuru vangu vatema-tema asi huro yavo yakachena"
+        ],
+        "responses": [
+          "gunguo"
+        ]
+      },
+      {
+        "tag": "riddle 41",
+        "patterns": [
+          "shumba mbiri dzakarinda gomo"
+        ],
+        "responses": [
+          "shumba"
+        ]
+      },
+      {
+        "tag": "riddle 42",
+        "patterns": [
+          "amai ngwe kuchena, mwana ngwe kuchena"
+        ],
+        "responses": [
+          "guyo nehuyo"
+        ]
+      },
+      {
+        "tag": "riddle 43",
+        "patterns": [
+          "rirove rikupe kudya"
+        ],
+        "responses": [
+          "nwiwa"
+        ]
+      },
+      {
+        "tag": "riddle 44",
+        "patterns": [
+          "amai vangu vanozvara asi havafukidze vana"
+        ],
+        "responses": [
+          "manhanga"
+        ]
+      },
+      {
+        "tag": "riddle 45",
+        "patterns": [
+          "baba vangu vanoramba vachifamba vasinganete"
+        ],
+        "responses": [
+          "rwizi"
+        ]
+      },
+      {
+        "tag": "riddle 46",
+        "patterns": [
+          "bhuru rangu raenda kunotiva rikadzoka raonda"
+        ],
+        "responses": [
+          "sipo"
+        ]
+      },
+      {
+        "tag": "riddle 47",
+        "patterns": [
+          "imba yaamai vangu isina musuwo"
+        ],
+        "responses": [
+          "zai"
+        ]
+      },
+      {
+        "tag": "riddle 48",
+        "patterns": [
+          "kwatsva sora kukasara bhandi"
+        ],
+        "responses": [
+          "nzira"
+        ]
+      },
+      {
+        "tag": "riddle 49",
+        "patterns": [
+          "kuenda humbangu,kudzoka humbangu"
+        ],
+        "responses": [
+          "gonhi"
+        ]
+      },
+      {
+        "tag": "riddle 50",
+        "patterns": [
+          "kachembere kekwedu kanozvuva sanzu nokumashure"
+        ],
+        "responses": [
+          "tsono"
+        ]
+      },
+      
+      {
+        "tag": "ideophone 1",
+        "patterns": [
+          "nyakata"
+        ],
+        "responses": [
+          "kutota"
+        ]
+      },
+      {
+        "tag": "ideophone 2",
+        "patterns": [
+          "hwa"
+        ],
+        "responses": [
+          "kupera"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 3",
+        "patterns": [
+          "ziro"
+        ],
+        "responses": [
+          "kunyarara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 4",
+        "patterns": [
+          "vai"
+        ],
+        "responses": [
+          "kupenya"
+        ]
+      },
+      {
+        "tag": "ideophone 5",
+        "patterns": [
+          "ndoo"
+        ],
+        "responses": [
+          "kusviba"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 6",
+        "patterns": [
+          "bwa"
+        ],
+        "responses": [
+          "kubuda"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 7",
+        "patterns": [
+          "tibvu"
+        ],
+        "responses": [
+          "kubaya"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 8",
+        "patterns": [
+          "ndondondo"
+        ],
+        "responses": [
+          "kunyura"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 9",
+        "patterns": [
+          "rabu"
+        ],
+        "responses": [
+          "kurara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 10",
+        "patterns": [
+          "tana"
+        ],
+        "responses": [
+          "kuramba"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 11",
+        "patterns": [
+          "genen'ena"
+        ],
+        "responses": [
+          "kujeka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 12 ",
+        "patterns": [
+          "kutu"
+        ],
+        "responses": [
+          "kunhuwa"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 12",
+        "patterns": [
+          "piriviri"
+        ],
+        "responses": [
+          "kutsvuka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 13",
+        "patterns": [
+          "godi"
+        ],
+        "responses": [
+          "kugara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 14",
+        "patterns": [
+          "tsvaa"
+        ],
+        "responses": [
+          "kusviba"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 15",
+        "patterns": [
+          "tiba"
+        ],
+        "responses": [
+          "kuputsika nomuromo"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 16",
+        "patterns": [
+          "gwadagwa"
+        ],
+        "responses": [
+          "kuwa nemabvi"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 17",
+        "patterns": [
+          "patata"
+        ],
+        "responses": [
+          "kuoma"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 18",
+        "patterns": [
+          "cheu"
+        ],
+        "responses": [
+          "kucheuka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 19 ",
+        "patterns": [
+          "hutu"
+        ],
+        "responses": [
+          "kuenda"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 20 ",
+        "patterns": [
+          "kushu"
+        ],
+        "responses": [
+          "kurara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 21 ",
+        "patterns": [
+          "bvu"
+        ],
+        "responses": [
+          "kuseka"
+        ]
+      },
+      {
+        "tag": "ideophone 22",
+        "patterns": [
+          "rabada"
+        ],
+        "responses": [
+          "kurara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 23",
+        "patterns": [
+          "dhu"
+        ],
+        "responses": [
+          "kufunga"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 24",
+        "patterns": [
+          "ndee"
+        ],
+        "responses": [
+          "kutarisa"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 25",
+        "patterns": [
+          "nombo"
+        ],
+        "responses": [
+          "kunokora nechigunwe"
+        ]
+      },
+      {
+        "tag": "ideophone 26",
+        "patterns": [
+          "kobu"
+        ],
+        "responses": [
+          "kurumwa"
+        ]
+      },
+      {
+        "tag": "ideophone 27",
+        "patterns": [
+          "rororo"
+        ],
+        "responses": [
+          "kukotsira"
+        ]
+      },
+      {
+        "tag": "ideophone 28",
+        "patterns": [
+          "shutu"
+        ],
+        "responses": [
+          "kuzara"
+        ]
+      },
+      {
+        "tag": "ideophone 29 ",
+        "patterns": [
+          "ngwee"
+        ],
+        "responses": [
+          "kuchena"
+        ]
+      },
+      {
+        "tag": "ideophone 30",
+        "patterns": [
+          "ngwerewere"
+        ],
+        "responses": [
+          "kuchena"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 31",
+        "patterns": [
+          "tende"
+        ],
+        "responses": [
+          "kugara"
+        ]
+      },
+      {
+        "tag": "ideophone 32",
+        "patterns": [
+          "go"
+        ],
+        "responses": [
+          "kugara"
+        ]
+      },
+      {
+        "tag": "ideophone 33",
+        "patterns": [
+          "vhuu"
+        ],
+        "responses": [
+          "kusvika"
+        ]
+      },
+      {
+        "tag": "ideophone 34",
+        "patterns": [
+          "pfacha"
+        ],
+        "responses": [
+          "kusvika"
+        ]
+      },
+      {
+        "tag": "ideophone 35",
+        "patterns": [
+          "tsva-a"
+        ],
+        "responses": [
+          "kusviba"
+        ]
+      },
+      {
+        "tag": "ideophone 36",
+        "patterns": [
+          "pindikiti"
+        ],
+        "responses": [
+          "kupinda"
+        ]
+      },
+      {
+        "tag": "ideophone 37",
+        "patterns": [
+          "pamu-pamu"
+        ],
+        "responses": [
+          "kuzara"
+        ]
+      },
+      {
+        "tag": "ideophone 38",
+        "patterns": [
+          "pwati"
+        ],
+        "responses": [
+          "kuseka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 39",
+        "patterns": [
+          "bvu-u"
+        ],
+        "responses": [
+          "kuseka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 40",
+        "patterns": [
+          "zii"
+        ],
+        "responses": [
+          "kunyarara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 41",
+        "patterns": [
+          "mwii"
+        ],
+        "responses": [
+          "kunyarara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 42",
+        "patterns": [
+          "kata-kata"
+        ],
+        "responses": [
+          "kukwirira"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 43 ",
+        "patterns": [
+          "dhii"
+        ],
+        "responses": [
+          "kudonha"
+        ]
+      },
+      {
+        "tag": "ideophone 44",
+        "patterns": [
+          "undundu"
+        ],
+        "responses": [
+          "kupusa"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 45",
+        "patterns": [
+          "nzvee"
+        ],
+        "responses": [
+          "kunzvenga"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 46",
+        "patterns": [
+          "tsvee"
+        ],
+        "responses": [
+          "kugadzika"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 47",
+        "patterns": [
+          "pidigu"
+        ],
+        "responses": [
+          "kudonha"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 48",
+        "patterns": [
+          "nga"
+        ],
+        "responses": [
+          "kusunga"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 49",
+        "patterns": [
+          "haradada"
+        ],
+        "responses": [
+          "kushama"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 50",
+        "patterns": [
+          "tashu"
+        ],
+        "responses": [
+          "kuguta"
+        ]
+      },
+      {
+        "tag": "ideophone 51 ",
+        "patterns": [
+          "bherengende"
+        ],
+        "responses": [
+          "kuvhura"
+        ]
+      },
+      {
+        "tag": "ideophone 52",
+        "patterns": [
+          "gwishu"
+        ],
+        "responses": [
+          "kudimbura"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 53",
+        "patterns": [
+          "mburetete"
+        ],
+        "responses": [
+          "kuchena"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 54",
+        "patterns": [
+          "nyobvo"
+        ],
+        "responses": [
+          "kuswinya"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 55",
+        "patterns": [
+          "mha-a"
+        ],
+        "responses": [
+          "kumhara"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 56",
+        "patterns": [
+          "shonyororo"
+        ],
+        "responses": [
+          "kumonya"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 57",
+        "patterns": [
+          "ndure"
+        ],
+        "responses": [
+          "kuruma"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 58",
+        "patterns": [
+          "mbembe"
+        ],
+        "responses": [
+          "kuchena"
+        ]
+      },
+      {
+        "tag": "ideophone 59",
+        "patterns": [
+          "ngandu"
+        ],
+        "responses": [
+          "kupfuta"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 60",
+        "patterns": [
+          "pepu"
+        ],
+        "responses": [
+          "kumuka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 61",
+        "patterns": [
+          "chechetere"
+        ],
+        "responses": [
+          "kuenzana"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 62",
+        "patterns": [
+          "virikiti"
+        ],
+        "responses": [
+          "kunzvenga"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 63",
+        "patterns": [
+          "gadya"
+        ],
+        "responses": [
+          "kumedza"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 64",
+        "patterns": [
+          "nyondo"
+        ],
+        "responses": [
+          "kuwa nomuromo"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 65",
+        "patterns": [
+          "kwetsu"
+        ],
+        "responses": [
+          "kuridza"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 66",
+        "patterns": [
+          "kanha"
+        ],
+        "responses": [
+          "kushamisika"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 67",
+        "patterns": [
+          "teu-teu"
+        ],
+        "responses": [
+          "kuteuka"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 68",
+        "patterns": [
+          "kanyu-kanyu"
+        ],
+        "responses": [
+          "kukanya"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 69",
+        "patterns": [
+          "zenda"
+        ],
+        "responses": [
+          "kuzendama"
+        ]
+      },
+  
+      {
+        "tag": "ideophone 70",
+        "patterns": [
+          "tumbi"
+        ],
+        "responses": [
+          "kumira"
+        ]
+      },
+      {
+        "tag": "ideophone 71",
+        "patterns": [
+          "dhugu"
+        ],
+        "responses": [
+          "kubuda"
+        ]
+      }
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  
+    ]
+  }
+  
