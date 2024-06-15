@@ -33,6 +33,94 @@
         ]
       },
       {
+        "tag": "greeting 4",
+        "patterns": [
+          "tsumo"
+          
+        ],
+        "responses": [
+          "Nyora Tsumo!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 5",
+        "patterns": [
+          "zvinoreva tsumo"
+          
+        ],
+        "responses": [
+          "Nyora Tsumo!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 6",
+        "patterns": [
+          "zvinoreva madimikira"
+          
+        ],
+        "responses": [
+          "Nyora dimikira!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 7",
+        "patterns": [
+          "dimikira"
+          
+        ],
+        "responses": [
+          "Nyora Dimikira!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 8",
+        "patterns": [
+          "zvirahwe"
+          
+        ],
+        "responses": [
+          "Nyora Chirahwe!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 9",
+        "patterns": [
+          "zvinoreva zvirahwe"
+          
+        ],
+        "responses": [
+          "Nyora Chirahwe!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 10",
+        "patterns": [
+          "nyaudzosingwi"
+          
+        ],
+        "responses": [
+          "Nyora Nyaudzosingwi!"
+          
+        ]
+      },
+      {
+        "tag": "greeting 11",
+        "patterns": [
+          "zvinorevanyaudzosingwi"
+          
+        ],
+        "responses": [
+          "Nyora Nyaudzosingwi!"
+          
+        ]
+      },
+      {
         "tag": "idiom 1",
         "patterns": [
           "Mwana asingachemi anofira mumbereko"
@@ -563,7 +651,7 @@
       {
         "tag": "idiom 54",
         "patterns": [
-          "uswa hwenyathi ndohuri mudumbu, huri pamuromo inofa nahwo "
+          "uswa hwenyathi ndohuri mudumbu huri pamuromo inofa nahwo "
         ],
         "responses": [
           "regera kuvimba nechinhu chausati wava nacho"
@@ -581,7 +669,7 @@
       {
         "tag": "idiom 56",
         "patterns": [
-          "chirungurira chirwere, kunyarara unofa nacho"
+          "chirungurira chirwere kunyarara unofa nacho"
         ],
         "responses": [
           "chigumbu choga chinorwadza mwoyo womunhu nokudaro unofanira kuchitaura kuti usununguke"
@@ -945,7 +1033,7 @@
       {
         "tag": "idiom 95",
         "patterns": [
-          "inochema ndoiri paurimbo, iri muriva inoti denga rawa"
+          "inochema ndoiri paurimbo iri muriva inoti denga rawa"
         ],
         "responses": [
           "munhu anochema achiti ane nhamo ndouya ane shoma, ane dzakawanda anoti kufa kurinani"
@@ -1062,7 +1150,7 @@
       {
         "tag": "idiom 108",
         "patterns": [
-          "china manenji hachifambisi, chinomirira kuti mavara acho aonekwe"
+          "china manenji hachifambisi chinomirira kuti mavara acho aonekwe"
         ],
         "responses": [
           "nguva dzose kana paine chinhu chinoshamisa chinoda kuitika, kunotanga manenji nezvimwe zviitiko zvakakomba"
@@ -1101,7 +1189,7 @@
       {
         "tag": "idiom 112",
         "patterns": [
-          "chava chigondora chava chimombe, kutadza kutunga urema hwacho"
+          "chava chigondora chava chimombe kutadza kutunga urema hwacho"
         ],
         "responses": [
           "kana mwana ayaruka achitadza kuzvimiririra urema hwake"
@@ -1272,7 +1360,7 @@
           "kwadzinorohwa matumbu ndiko kwadzinomhanyira"
         ],
         "responses": [
-          "kazhinji vakadzi vanowanzoda varume vanoshusha, vanovarova kana kuti vanhu vazhinji vanomhanyirira zvinhu zvinokuvadza"
+          "kazhinji vakadzi vanowanzoda varume vanoshusha vanovarova kana kuti vanhu vazhinji vanomhanyirira zvinhu zvinokuvadza"
         ]
       },
       
@@ -1621,7 +1709,7 @@
       {
         "tag": "metaphor 33",
         "patterns": [
-          "Kutswanya bete neura hwaro- "
+          "Kutswanya bete neura hwaro "
         ],
         "responses": [
           "kuita zvinhu nemazvo"
@@ -2082,7 +2170,7 @@
       {
         "tag": "riddle 3",
         "patterns": [
-          "Gomo rekwedu rinopfungaira ("
+          "Gomo rekwedu rinopfungaira "
         ],
         "responses": [
           "sadza"
@@ -2109,7 +2197,7 @@
       {
         "tag": "riddle 6",
         "patterns": [
-          "Kuenda humbangu, kudzoka humbangu"
+          "Kuenda humbangu  kudzoka humbangu"
         ],
         "responses": [
           "gonhi"
@@ -2217,7 +2305,7 @@
       {
         "tag": "riddle 18",
         "patterns": [
-          "chidemo tamba-tamba muswe ndakabata"
+          "chidemo tamba tamba muswe ndakabata"
         ],
         "responses": [
           "badza"
@@ -2361,7 +2449,7 @@
       {
         "tag": "riddle 34",
         "patterns": [
-          "ndamusiya akakombwa, hameno akapona"
+          "ndamusiya akakombwa hameno akapona"
         ],
         "responses": [
           "sadza"
@@ -2433,7 +2521,7 @@
       {
         "tag": "riddle 42",
         "patterns": [
-          "amai ngwe kuchena, mwana ngwe kuchena"
+          "amai ngwe kuchena mwana ngwe kuchena"
         ],
         "responses": [
           "guyo nehuyo"
@@ -2496,7 +2584,7 @@
       {
         "tag": "riddle 49",
         "patterns": [
-          "kuenda humbangu,kudzoka humbangu"
+          "kuenda humbangu kudzoka humbangu"
         ],
         "responses": [
           "gonhi"
@@ -2853,7 +2941,7 @@
       {
         "tag": "ideophone 35",
         "patterns": [
-          "tsva-a"
+          "tsvaa"
         ],
         "responses": [
           "kusviba"
@@ -2890,7 +2978,7 @@
       {
         "tag": "ideophone 39",
         "patterns": [
-          "bvu-u"
+          "bvuu"
         ],
         "responses": [
           "kuseka"
@@ -2920,7 +3008,7 @@
       {
         "tag": "ideophone 42",
         "patterns": [
-          "kata-kata"
+          "kata kata"
         ],
         "responses": [
           "kukwirira"
@@ -3047,7 +3135,7 @@
       {
         "tag": "ideophone 55",
         "patterns": [
-          "mha-a"
+          "mhaa"
         ],
         "responses": [
           "kumhara"
@@ -3166,7 +3254,7 @@
       {
         "tag": "ideophone 67",
         "patterns": [
-          "teu-teu"
+          "teu teu"
         ],
         "responses": [
           "kuteuka"
@@ -3176,7 +3264,7 @@
       {
         "tag": "ideophone 68",
         "patterns": [
-          "kanyu-kanyu"
+          "kanyu kanyu"
         ],
         "responses": [
           "kukanya"
